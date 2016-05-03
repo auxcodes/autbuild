@@ -3,14 +3,12 @@
 		<group>mqm</group>
 		<group>mqbrkrs</group>
 		<group>mqxplr</group>
-		<group>clstaff</group>
 		<group>was</group>
 		<group>was6</group>
 	</groups>
 	<selectedcheckboxes>
 		<group>mqm</group>
 		<group>mqxplr</group>
-		<group>clstaff</group>
 	</selectedcheckboxes>
 	<env>
 		<devl>
@@ -18,7 +16,6 @@
 				<mqm>-all +all</mqm>
 				<mqbrkrs>-all +all</mqbrkrs>
 				<mqxplr>-all +browse +clr +dsp +get +inq +put +passall +passid +set +setall +setid</mqxplr>
-				<clstaff>-all +browse +clr +dsp +get +inq +put +passall +passid +set +setall +setid</clstaff>
 				<was>-all +browse +dsp +get +inq +put +passall +passid +set +setall +setid</was>
 				<was6>-all +browse +dsp +get +inq +put +passall +passid +set +setall +setid</was6>
 			</queue>
@@ -26,7 +23,6 @@
 				<mqm>-all +chg +dlt +dsp +ctrl +ctrlx</mqm>
 				<mqbrkrs>-all +chg +dlt +dsp +ctrl +ctrlx</mqbrkrs>
 				<mqxplr>-all</mqxplr>
-				<clstaff>-all</clstaff>
 				<was>-all +chg +dlt +dsp +ctrl +ctrlx</was>
 				<was6>-all +chg +dlt +dsp +ctrl +ctrlx</was6>			
 			</channel>
@@ -36,7 +32,6 @@
 				<mqm>-all +all</mqm>
 				<mqbrkrs>-all +all</mqbrkrs>
 				<mqxplr>-all +browse +clr +dsp +get +inq +put +passall +passid +set +setall +setid</mqxplr>
-				<clstaff>-all +browse +clr +dsp +get +inq +put +passall +passid +set +setall +setid</clstaff>
 				<was>-all +browse +dsp +get +inq +put +passall +passid +set +setall +setid</was>
 				<was6>-all +browse +dsp +get +inq +put +passall +passid +set +setall +setid</was6>
 			</queue>
@@ -44,7 +39,6 @@
 				<mqm>-all +chg +dlt +dsp +ctrl +ctrlx</mqm>
 				<mqbrkrs>-all +chg +dlt +dsp +ctrl +ctrlx</mqbrkrs>
 				<mqxplr>-all</mqxplr>
-				<clstaff>-all</clstaff>
 				<was>-all +chg +dlt +dsp +ctrl +ctrlx</was>
 				<was6>-all +chg +dlt +dsp +ctrl +ctrlx</was6>
 			</channel>
@@ -54,7 +48,6 @@
 				<mqm>-all +all</mqm>
 				<mqbrkrs>-all +all</mqbrkrs>
 				<mqxplr>-all +browse +dsp +get +inq +put</mqxplr>
-				<clstaff>-all +browse +dsp +get +inq +put</clstaff>
 				<was>-all +browse +dsp +get +inq +put +passall +passid +set +setall +setid</was>
 				<was6>-all +browse +dsp +get +inq +put +passall +passid +set +setall +setid</was6>
 			</queue>
@@ -62,7 +55,6 @@
 				<mqm>-all +chg +dlt +dsp +ctrl +ctrlx</mqm>
 				<mqbrkrs>-all +chg +dlt +dsp +ctrl +ctrlx</mqbrkrs>
 				<mqxplr>-all</mqxplr>
-				<clstaff>-all</clstaff>
 				<was>-all +chg +dlt +dsp +ctrl +ctrlx</was>
 				<was6>-all +chg +dlt +dsp +ctrl +ctrlx</was6>			
 			</channel>
@@ -72,7 +64,6 @@
 				<mqm>-all +all</mqm>
 				<mqbrkrs>-all +all</mqbrkrs>
 				<mqxplr>-all +browse +dsp +get +inq +put</mqxplr>
-				<clstaff>-all +browse +dsp +get +inq +put</clstaff>
 				<was>-all +browse +dsp +get +inq +put +passall +passid +set +setall +setid</was>
 				<was6>-all +browse +dsp +get +inq +put +passall +passid +set +setall +setid</was6>
 			</queue>
@@ -80,7 +71,6 @@
 				<mqm>-all +chg +dlt +dsp +ctrl +ctrlx</mqm>
 				<mqbrkrs>-all +chg +dlt +dsp +ctrl +ctrlx</mqbrkrs>
 				<mqxplr>-all</mqxplr>
-				<clstaff>-all</clstaff>
 				<was>-all +chg +dlt +dsp +ctrl +ctrlx</was>
 				<was6>-all +chg +dlt +dsp +ctrl +ctrlx</was6>			
 			</channel>
@@ -90,7 +80,6 @@
 				<mqm>-all +all</mqm>
 				<mqbrkrs>-all +all</mqbrkrs>
 				<mqxplr>-all +browse +dsp +inq</mqxplr>
-				<clstaff>-all +browse +dsp +inq</clstaff>
 				<was>-all +browse +dsp +get +inq +put +passall +passid +set +setall +setid</was>
 				<was6>-all +browse +dsp +get +inq +put +passall +passid +set +setall +setid</was6>
 			</queue>
@@ -98,7 +87,6 @@
 				<mqm>-all +chg +dlt +dsp +ctrl +ctrlx</mqm>
 				<mqbrkrs>-all +chg +dlt +dsp +ctrl +ctrlx</mqbrkrs>
 				<mqxplr>-all</mqxplr>
-				<clstaff>-all</clstaff>
 				<was>-all +chg +dlt +dsp +ctrl +ctrlx</was>
 				<was6>-all +chg +dlt +dsp +ctrl +ctrlx</was6>			
 			</channel>
