@@ -1,0 +1,3 @@
+https://mborgerson.com/creating-an-executable-from-a-python-script
+
+C:\Python27\Scripts\pyinstaller.exe --onefile --windowed --icon=C:\zroot\AppData\Python\AutBuilder\faviconBlue.ico C:\zroot\AppData\Python\AutBuilder\autBuilder_2.0.py
